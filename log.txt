@@ -1,1 +1,6 @@
 
+Compiling...
+Running edge detection and restoration...
+Edge detection completed. Results saved in output/edge_detected_signal.csv
+Restoration completed. Results saved in output/restored_signal.csv
+Processing completed.
